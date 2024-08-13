@@ -10,4 +10,4 @@ It integrates with the Ollama server 🦙 to fetch available models and their pr
  * Real-Time Updates: See prompt changes and generate responses interactively. 🔄
 
 <h2>Prerequisites 📋 </h2>
-Before using Tariqak, you need to pull the desired model from the <a htref="https://github.com/ollama/ollama">Ollama server</a>. Follow the instructions in the Ollama repository to download and set up the model locally. 📥
+Before using Tariqak, you need to pull the desired model from the <a href="https://github.com/ollama/ollama">Ollama server</a>. Follow the instructions in the Ollama repository to download and set up the model locally. 📥
