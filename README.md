@@ -9,5 +9,11 @@ It integrates with the Ollama server 🦙 to fetch available models and their pr
  * Customizable Parameters: Adjust temperature, top-p, and top-k settings to influence the generation results. 🎛️
  * Real-Time Updates: See prompt changes and generate responses interactively. 🔄
 
+<h2>Input Image 🖼️</h2>
+<img src="imgs\\input.png" alt="Input Image" width="100%"/>
+<h2>Output Image 🖼️</h2>
+<img src="imgs\\output.png" alt="Output Image" width="100%"/>
+
+
 <h2>Prerequisites 📋 </h2>
 Before using Tariqak, you need to pull the desired model from the <a href="https://github.com/ollama/ollama">Ollama server</a>. Follow the instructions in the Ollama repository to download and set up the model locally. 📥
