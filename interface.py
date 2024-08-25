@@ -48,8 +48,8 @@ def create_gradio_interface(ollama_server_url, generate_url):
     with gr.Blocks(css=custom_css) as demo:
         # Add a title and description with the app name
         gr.Markdown(f"""
-        <h1 class="title">🌸 Tariqak 🌸</h1>
-        <0 class="discription">**Welcome!** Select a model, adjust the parameters, and generate something magical!  
+        <h1 class="title">Tariqak 🛣️</h1>
+        <class="description"><p> <b>Welcome!</b> Select a model, adjust the parameters, and generate something magical!  
         Enjoy the sweet and playful interface we crafted just for you! 🍬✨</p>
         """)
 
